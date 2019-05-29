@@ -6,5 +6,7 @@
             "email": "joaomagdaleno.14@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "cocur/slugify": "^3.2"
+    }
 }

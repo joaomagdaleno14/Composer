@@ -1,0 +1,10 @@
+{
+    "name": "magdaleno/composer",
+    "authors": [
+        {
+            "name": "João Magdaleno",
+            "email": "joaomagdaleno.14@gmail.com"
+        }
+    ],
+    "require": {}
+}

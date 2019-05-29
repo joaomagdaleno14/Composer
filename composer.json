@@ -8,5 +8,11 @@
     ],
     "require": {
         "cocur/slugify": "^3.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Classes\\":"class/",
+            "Outras\\":"outraClass"
+        }
     }
 }
